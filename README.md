@@ -2,6 +2,7 @@
 This is the R code for my senior honor research paper “The Impact of E-Commerce on China’s Rural Poverty”. This paper investigates the impact of E-Commerce on China’s rural poverty using Taobao villages as a measurement of rural E-commerce development. I seek to answer the following question: How does having E-Commerce villages at the county level affect regional poverty in China? Using a two-way fixed effect panel data regression with data from a large sample of counties in different provinces, I find Taobao villages particularly advantageous to poorer counties in China. 
 
 The source code for this research can be found with: 
+
 https://github.com/Tinayiluo/The-Impact-of-E-Commerce-on-China-s-Rural-Poverty.git
 
 My main regression model: 
