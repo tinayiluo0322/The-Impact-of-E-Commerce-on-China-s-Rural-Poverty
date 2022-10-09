@@ -5,14 +5,23 @@ The source code for this research can be found with:
 https://github.com/Tinayiluo/The-Impact-of-E-Commerce-on-China-s-Rural-Poverty.git
 
 My main regression model: 
+
 Yct=α + β1Taobaoct + β2 Pct + 𝛾c + 𝛾t +e
+
 Yct: Outcome variables. GDP per capita for county c in year t / Share of secondary industry in GDP for county c in year t.
+
 Taobaoct: %  of Taobao villages for county c in year t
+
 Pct:  Population for county c in year t
+
 α: constant or intercept
+
 β1: intercept, the impact of 1% increase of Taobao villages on county level GDP per capita/share of secondary industry in GDP 
+
 β2 : intercept, the impact of 1% increase of population on county level GDP per capita/share of secondary industry in GDP 
+
 c: county
+
 t: year
 
 𝛾c: county fixed effect 
