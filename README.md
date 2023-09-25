@@ -1,5 +1,7 @@
 # The Impact of E-Commerce on China's Rural Poverty 
-This is the R code for my NYU senior honor research thesis “The Impact of E-Commerce on China’s Rural Poverty”. This paper investigates the impact of E-Commerce on China’s rural poverty using Taobao villages as a measurement of rural E-commerce development. This research is featured in the 2022 NYU Inquiry: A Journal of Undergraduate Research and is presented at the 48th NYU CAS Annual Undergraduate Research Conference.
+This is the R code for my NYU senior honor research thesis “The Impact of E-Commerce on China’s Rural Poverty”. This paper investigates the impact of E-Commerce on China’s rural poverty using Taobao villages as a measurement of rural E-commerce development.
+
+This research is featured in the 2022 NYU Inquiry: A Journal of Undergraduate Research and is presented at the 48th NYU CAS Annual Undergraduate Research Conference.
 
 The source code for this research can be found with: 
 
